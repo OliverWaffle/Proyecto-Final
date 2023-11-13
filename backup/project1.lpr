@@ -7,7 +7,7 @@ uses
   cthreads,
   {$ENDIF}
   Classes
-  { Las units va abajo de esto };
+  { you can add units after this };
 
 begin
 end.
