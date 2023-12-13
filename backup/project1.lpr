@@ -1,14 +1,17 @@
 program project1;
 
-{$mode objfpc}{$H+}
-
 uses
   {$IFDEF UNIX}
   cthreads,
   {$ENDIF}
-  Classes
-  { you can add units after this };
+  Classes, arbol, conductores, infracciones;
+
+{ Constantes principales del sistema de scoring }
+
+var
 
 begin
+
+
 end.
 
