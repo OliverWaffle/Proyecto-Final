@@ -8,8 +8,6 @@ uses
 
 { Constantes principales del sistema de scoring }
 
-var
-
 begin
 
 

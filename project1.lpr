@@ -4,7 +4,7 @@ uses
   {$IFDEF UNIX}
   cthreads,
   {$ENDIF}
-  Classes, arbol, conductores, infracciones;
+  Classes, arbol, conductores, infracciones, menu;
 
 { Constantes principales del sistema de scoring }
 

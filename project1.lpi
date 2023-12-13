@@ -59,6 +59,11 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="Infracciones"/>
       </Unit>
+      <Unit>
+        <Filename Value="menu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Menu"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>

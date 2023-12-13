@@ -21,6 +21,10 @@ type
 
   T_ArchConductores = File Of T_Conductores;
 
+Procedure CrarArchConductores(var ARCH:T_ArchConductores);
+Procedure AbrirArchConductores(var ARCH:T_ArchConductores);
+Procedure CerrarArchConductores(var ARCH:T_ArchConductores);
+
 Implementation
 
 Procedure CrarArchConductores(var ARCH:T_ArchConductores);
